@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jessw\\Documents\\Github\\CasualProductionDreamTeam\\DreamRunner\\Intermediate\\Source\\DreamRunner.Build.cs",
+		"C:\\Users\\jessw\\Documents\\Github\\CasualProductionDreamTeam\\DreamRunner\\Intermediate\\Source\\DreamRunner.Target.cs",
+		"C:\\Users\\jessw\\Documents\\Github\\CasualProductionDreamTeam\\DreamRunner\\Intermediate\\Source\\DreamRunnerClient.Target.cs",
+		"C:\\Users\\jessw\\Documents\\Github\\CasualProductionDreamTeam\\DreamRunner\\Intermediate\\Source\\DreamRunnerEditor.Target.cs",
+		"C:\\Users\\jessw\\Documents\\Github\\CasualProductionDreamTeam\\DreamRunner\\Intermediate\\Source\\DreamRunnerServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
