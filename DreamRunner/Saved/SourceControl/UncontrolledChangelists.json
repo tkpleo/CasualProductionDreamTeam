@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/SingleLane_jump/Textures/Wall_low_Wall_low_Wall_low_OcclusionRoughnessMetallic_Raw.uasset",
+				"D:/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/SingleLane_jump/Textures/Wall_low_Wall_low_Wall_low_Normal_Raw.uasset",
+				"D:/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/SingleLane_jump/Textures/Wall_low_Wall_low_Wall_low_BaseColor_sRGB.uasset",
+				"D:/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/SingleLane_jump/Wall_low.uasset",
+				"D:/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/SingleLane_jump/Wall_low1.uasset",
 				"C:/Users/doukz/OneDrive/Documents/GitHub/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/slide_under/textures/slide_under_initialShadingGroup_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/doukz/OneDrive/Documents/GitHub/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/slide_under/initialShadingGroup.uasset",
 				"C:/Users/doukz/OneDrive/Documents/GitHub/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Characters/body1.uasset",
