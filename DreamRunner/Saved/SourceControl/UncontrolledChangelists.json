@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/CasualProductionDreamTeam/DreamRunner/Content/__ExternalActors__/LevelPrototyping/Levels/BlockOuts/F/3D/23OFTYAAQX8DE7ALHHLQ2R.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/CasualProductionDreamTeam/DreamRunner/Content/__ExternalActors__/LevelPrototyping/Levels/BlockOuts/7/VT/54460YB8GQFGSOE0DP5U2N.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/CasualProductionDreamTeam/DreamRunner/Content/__ExternalActors__/LevelPrototyping/Levels/BlockOuts/7/ZH/VAZ4WERINUX12UI1GM517D.uasset",
@@ -289,6 +290,13 @@
 				"C:/Users/jessw/Documents/Unreal Projects/DreamRunner/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6.uasset",
 				"C:/Users/jessw/Documents/Unreal Projects/DreamRunner/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
 				"C:/Users/jessw/Documents/Unreal Projects/DreamRunner/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0.uasset"
+=======
+				"G:/GitHub/CasualProductionDreamTeam/DreamRunner/Content/Materials/M_Skybox.uasset",
+				"G:/GitHub/CasualProductionDreamTeam/DreamRunner/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH.uasset",
+				"G:/GitHub/CasualProductionDreamTeam/DreamRunner/Content/Materials/sky_16_2k.uasset",
+				"G:/GitHub/CasualProductionDreamTeam/DreamRunner/Content/Materials/MI_Skybox.uasset",
+				"G:/GitHub/CasualProductionDreamTeam/DreamRunner/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset"
+>>>>>>> UI/VFX
 			]
 		}
 	]
