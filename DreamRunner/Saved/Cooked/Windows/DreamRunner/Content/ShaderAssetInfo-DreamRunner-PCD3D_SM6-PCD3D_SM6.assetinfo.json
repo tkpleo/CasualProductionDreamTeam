@@ -50,9 +50,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C30EF90DADB179817DD4BCBD2FC84D9943028240",
+			"Assets": [
+				"/Game/DrapEffet/VFX/NE_drop_effects03"
+			]
+		},
+		{
 			"ShaderMapHash": "B5648B0E78C4B7E4337F8ECCEA9DB2BDF9C35FA0",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EAF2210F0D95363C58BB8D7382E2A48FE8691FA4",
+			"Assets": [
+				"/Game/DrapEffet/Meterials/M_star"
 			]
 		},
 		{
@@ -98,6 +110,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B0F8FD2149716EAC6E780FB061B130BF84E282C0",
+			"Assets": [
+				"/Game/DrapEffet/Meterials/M_cell"
+			]
+		},
+		{
+			"ShaderMapHash": "43A361228732E27F2E8B3D198B43C424D4421073",
+			"Assets": [
+				"/Game/DrapEffet/Meterials/M_down"
+			]
+		},
+		{
+			"ShaderMapHash": "6E02FA2511439D7690320B43452549CBB049680D",
+			"Assets": [
+				"/Game/DrapEffet/Meterials/M_glow"
+			]
+		},
+		{
 			"ShaderMapHash": "CF77AC26A3B88B4081C1F18B0E343EA3D73A8978",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -107,6 +137,12 @@
 			"ShaderMapHash": "1E0A9427FEAEA7C1335CD0595BFF6B9DAFA7ECB0",
 			"Assets": [
 				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C20A6C28FB99063C5EE2F1CA1B6B2C7D5078DBFB",
+			"Assets": [
+				"/Game/DrapEffet/Meterials/M_big_star"
 			]
 		},
 		{
@@ -176,6 +212,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "04B2E145A89C4316DFD5D42FFF25110FF234F544",
+			"Assets": [
+				"/Game/DrapEffet/VFX/NE_drop_effects03"
+			]
+		},
+		{
 			"ShaderMapHash": "CF0A1E4EE7693F7C8EE7C4702E6A82F0151A9DA3",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
@@ -194,6 +236,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E8542956DFCFD0A4AC8ED32915874ED8D5023887",
+			"Assets": [
+				"/Game/DrapEffet/Meterials/M_beam"
+			]
+		},
+		{
 			"ShaderMapHash": "9DADE258E7CD08597074CF7CA24842F4DADE8C95",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
@@ -209,6 +257,12 @@
 			"ShaderMapHash": "B99E6C5E0030E0F1E9F89D45ABFFC314DE8A828F",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "37A9C75F0E4486687B770849BBD2AA91D0B0C49F",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -278,12 +332,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "83E1A8835B64A4D26D2E53CCB7EB8F69B504FA99",
-			"Assets": [
-				"/Game/UI/M_TextWave"
-			]
-		},
-		{
 			"ShaderMapHash": "DCE05C876F886C8F2200EA7048D08CC73AF1A9CF",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
@@ -328,7 +376,6 @@
 		{
 			"ShaderMapHash": "C46D9990A42AEB35811CB8D91C4941304B3D0EC1",
 			"Assets": [
-				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
 				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
 			]
 		},
@@ -461,7 +508,6 @@
 		{
 			"ShaderMapHash": "16056EC51B9971BA659704233276AF119E1939E5",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
@@ -481,6 +527,12 @@
 			"ShaderMapHash": "C55271D15BBBFB227D46116B4F7D629603701B7F",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "FDD78BD2BF0E58DC97FB1C1E04710BDC736A33BE",
+			"Assets": [
+				"/Game/UI/M_TextWave_Mk2"
 			]
 		},
 		{
@@ -584,6 +636,12 @@
 			"ShaderMapHash": "F47E25F16713CBA52606B3A1BE8AB6BD32FF73A4",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "0E2A5DF32063364645DFD62F55CF773A15F29DB1",
+			"Assets": [
+				"/Game/Tentacles/M_Tentacles"
 			]
 		},
 		{
