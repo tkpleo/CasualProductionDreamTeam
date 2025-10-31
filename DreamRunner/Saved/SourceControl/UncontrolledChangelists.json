@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alexq/Classes College/Games/GameDIG4725/Grimwar/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/3wide_jump/WJ_low.uasset",
+				"C:/Users/alexq/Classes College/Games/GameDIG4725/Grimwar/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/3wide_jump/WJ_mat.uasset",
+				"C:/Users/alexq/Classes College/Games/GameDIG4725/Grimwar/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/3wide_jump/Material_002.uasset",
+				"C:/Users/alexq/Classes College/Games/GameDIG4725/Grimwar/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/3wide_side_slide/Material_002.uasset",
+				"C:/Users/alexq/Classes College/Games/GameDIG4725/Grimwar/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/3wide_side_slide/3wide_side_slide_textures/WSR_low_Material_002_OcclusionRoughnessMetallic_Raw.uasset",
+				"C:/Users/alexq/Classes College/Games/GameDIG4725/Grimwar/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/3wide_side_slide/WSR.uasset",
 				"D:/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/SingleLane_jump/Textures/Wall_low_Wall_low_Wall_low_OcclusionRoughnessMetallic_Raw.uasset",
 				"D:/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/SingleLane_jump/Textures/Wall_low_Wall_low_Wall_low_Normal_Raw.uasset",
 				"D:/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/Obstacles/SingleLane_jump/Textures/Wall_low_Wall_low_Wall_low_BaseColor_sRGB.uasset",
