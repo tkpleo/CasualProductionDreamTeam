@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jessw/Documents/GitHub/CasualProductionDreamTeam/DreamRunner/Content/ThirdPerson/Blueprints/BP_Orb.uasset",
+				"C:/Users/jessw/Documents/GitHub/CasualProductionDreamTeam/DreamRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jessw/Documents/GitHub/CasualProductionDreamTeam/DreamRunner/Content/UI/Win_Menu.uasset",
 				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/Blueprints/DT_TestingYN.uasset",
 				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/Blueprints/DT_TestingDialog.uasset",
 				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/Blueprints/BP_ScriptManager.uasset",
