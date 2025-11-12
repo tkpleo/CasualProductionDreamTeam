@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DreamRunner.cpp.obj": [
+			"DreamRunner.cpp.obj"
+		]
+	}
+}

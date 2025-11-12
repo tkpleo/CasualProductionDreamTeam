@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jessw\\documents\\github\\casualproductiondreamteam\\dreamrunner\\intermediate\\build\\win64\\x64\\unrealgame\\development\\dreamrunner\\module.dreamrunner.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jessw\\documents\\github\\casualproductiondreamteam\\dreamrunner\\intermediate\\build\\win64\\x64\\dreamrunner\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jessw\\documents\\github\\casualproductiondreamteam\\dreamrunner\\intermediate\\build\\win64\\x64\\unrealgame\\development\\dreamrunner\\definitions.dreamrunner.h",
+            "c:\\users\\jessw\\documents\\github\\casualproductiondreamteam\\dreamrunner\\intermediate\\source\\dreamrunner.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
