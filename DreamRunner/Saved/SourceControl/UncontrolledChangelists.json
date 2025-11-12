@@ -7,10 +7,12 @@
 			"files": [
 				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/Blueprints/BP_ScriptManager.uasset",
 				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/Blueprints/DT_VNOver.uasset",
-				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/UI/WG_VNPortionOver.uasset",
 				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/UI/WG_Fade.uasset",
 				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/Blueprints/DT_TestingScript.uasset",
 				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/Maps/Gameplay.umap",
+				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/UI/WG_GameOver.uasset",
+				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/UI/WG_Dialog.uasset",
+				"C:/GitHubRepos/CasualProductionDreamTeam/DreamRunner/Content/VNStuff/Content/UI/WG_VNPortionOver.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/CasualProductionDreamTeam/DreamRunner/Content/3DAssets/TileSets/SM_TileSet_3.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/CasualProductionDreamTeam/DreamRunner/Content/__ExternalActors__/LevelPrototyping/Levels/BlockOuts/3/L1/6NDAHM032I46KJGGASRXW2.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/CasualProductionDreamTeam/DreamRunner/Content/__ExternalActors__/LevelPrototyping/Levels/BlockOuts/C/MT/2ZLRIPODIMNSIN8UVR379P.uasset",
